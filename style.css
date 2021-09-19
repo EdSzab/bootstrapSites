@@ -9,6 +9,11 @@
 .bg-darkpurple {
   background-color: rgb(49, 46, 65);;
 }
+/*
+.accordion-body {
+    background-color:rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important; ;
+}
+*/
 
 .main-footer {
   color:#ffffff;
@@ -17,6 +22,8 @@
   bottom: 0;
   width: 100%;
 }
+
+
 /*
 .button-with-screen-size
 {
