@@ -18,11 +18,14 @@
 .main-footer {
   color:#ffffff;
   padding: 5px;
-  position: relative;
+  position: fixed;
   bottom: 0;
   width: 100%;
 }
 
+body {
+  background-color: #212529;
+}
 
 /*
 .button-with-screen-size
