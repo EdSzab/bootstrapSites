@@ -6,7 +6,17 @@
     background-color: rgb(62, 58, 82);;
 }
 
+.bg-darkpurple {
+  background-color: rgb(49, 46, 65);;
+}
 
+.main-footer {
+  color:#ffffff;
+  padding: 5px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
 /*
 .button-with-screen-size
 {
